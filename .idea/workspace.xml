@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8d1aa5e-309e-4eff-8404-fbdf15ef2ae4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collections-task/resources/Songs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/dao/SongsDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/entity/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/io/SongsReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/io/SongsWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/service/SongsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/dao/SongsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/dao/SongsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/entity/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/entity/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/io/SongsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/io/SongsReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/io/SongsWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/io/SongsWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/service/SongsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-collections-task/src/com/epam/brest/service/SongsService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +35,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="15" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.brest.Main" />
+      <module name="java-collections-task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.brest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
