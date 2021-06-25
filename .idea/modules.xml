@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/epam-brest-laboratory.iml" filepath="$PROJECT_DIR$/.idea/epam-brest-laboratory.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-collections-task/java-collections-task.iml" filepath="$PROJECT_DIR$/java-collections-task/java-collections-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-threads-task/java-threads-task.iml" filepath="$PROJECT_DIR$/java-threads-task/java-threads-task.iml" />
     </modules>
   </component>
 </project>
