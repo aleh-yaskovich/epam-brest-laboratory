@@ -26,8 +26,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="15" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-threads-task/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-threads-task/src" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.RunnerPort">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -44,11 +50,11 @@
       </method>
     </configuration>
     <configuration name="RunnerPort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="brest.RunnerPort" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.brest.RunnerPort" />
       <module name="java-threads-task" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="brest.*" />
+          <option name="PATTERN" value="com.epam.brest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

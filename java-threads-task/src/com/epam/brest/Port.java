@@ -1,4 +1,4 @@
-package brest;
+package com.epam.brest;
 
 import java.util.ArrayList;
 import java.util.List;
